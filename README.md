@@ -1,6 +1,6 @@
 # Hey there, I’m **Marwa** 👋
 
-![Cute Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdrYTEwcjJuY3NlMmdsZXNtMzNsaXFxeTk5MjV5MGE3YnNza2V5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcigl4eOfc6hA5y/giphy.gif
 
 A passionate developer and tech explorer who loves diving into new languages and frameworks!  
 From Python to PHP, JavaScript to C#, I code, build, and solve problems with joy 🚀💻
