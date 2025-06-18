@@ -1,5 +1,6 @@
 # Hey there, I’m **Marwa** 👋
 
+![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 A passionate developer and tech explorer who loves diving into new languages and frameworks!  
 From Python to PHP, JavaScript to C#, I code, build, and solve problems with joy 🚀💻
 
@@ -60,10 +61,9 @@ From Python to PHP, JavaScript to C#, I code, build, and solve problems with joy
 
 ## 📫 Let’s Connect
 
-📧 [mchanu1998@gmail.com](mailto:mchanu1998@gmail.com)  
-🌐 [My Portfolio](http://if3projets.net/wad24/marwa)  
-🐙 [GitHub Profile](https://github.com/AyaDelRey)  
-📞 +32 486 85 07 67  
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mchanu1998@gmail.com)  
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](http://if3projets.net/wad24/marwa)  
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AyaDelRey)  
 
 ---
 
