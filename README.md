@@ -29,9 +29,12 @@ From Python to PHP, JavaScript to C#, I code, build, and solve problems with joy
 
 ## 💼 My Journey So Far
 
-### Business Analyst @ Covaltis (Feb – Mar 2025)  
-- Requirements analysis, design & tech support  
-- Bridging business needs with development teams  
+### Business Analyst & Front-End Developer @ Covaltis (Feb – Mar 2025)
+
+- Redesigned the front end of an industrial company website to improve UX and modernize the UI
+- Built custom Odoo modules based on OCA (Odoo Community Association)
+- Gathered and analyzed business requirements, then translated them into clear technical specifications
+  
 
 ### Digital Marketing Lead @ Co-Homing (May – Oct 2023)  
 - Website management & SEO  
