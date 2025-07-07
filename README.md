@@ -29,7 +29,7 @@ From Python to PHP, JavaScript to C#, I code, build, and solve problems with joy
 
 ## 💼 My Journey So Far
 
-### Business Analyst & Front-End Developer @ Covaltis (Feb – Mar 2025)
+### Business Analyst & Front-End Developer @ Covaltis (May – June 2025)
 
 - Redesigned the front end of an industrial company website to improve UX and modernize the UI
 - Built custom Odoo modules based on OCA (Odoo Community Association)
